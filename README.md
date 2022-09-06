@@ -9,4 +9,5 @@ El sistema cuenta con las entidades de:
 
 
 Desarrollado en netbeans con JAVA jdk17 y MySQL como base de datos.
-Se manejo le modelo MVC, programacion orientada a objetos.
+
+Se manejó le modelo MVC y programacion orientada a objetos.
